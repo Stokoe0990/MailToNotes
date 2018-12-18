@@ -1,0 +1,10 @@
+{
+    "name": "stokoe/mail-to-notes",
+    "authors": [
+        {
+            "name": "Stokoe",
+            "email": "mstokoe@codeplayground.io"
+        }
+    ],
+    "require": {}
+}
