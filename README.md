@@ -1,5 +1,3 @@
-# Ignore this
-
 Context.io provides an email inbox monitoring service which will fire webhooks.
 
 This package gets that webhook, separates out all the necessary data from it then using the message_id, does another request to context.io for the email's body and finally sends that information onwards to a URL defined in the .env file.
